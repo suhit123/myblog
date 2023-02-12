@@ -1,0 +1,115 @@
+[{
+    "name":"Suhit eswar",
+    "profession":"B-Tech Student",
+    "instaprofile":"https://www.instagram.com/suhit_eswar_/",
+    "linkdinprofile":"https://www.linkedin.com/in/suhit-eswar-8816a1227/",
+    "githubprofile":"https://github.com/suhit123",
+    "birthdate":"November 02 2004",
+    "place":"Banglore, India",
+    "mail":"suhiteswar123@gmail.com",
+    "mobile":"8688867490"
+},
+{
+    "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis aliquam faucibus purus in massa tempor nec feugiat nisl. Quisque id diam vel quam elementum pulvinar etiam non quam. Ornare suspendisse sed nisi lacus sed viverra tellus in. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Eget nulla facilisi etiam dignissim diam quis. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra accumsan. Augue interdum velit euismod in pellentesque massa. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Fusce id velit ut tortor pretium viverra suspendisse potenti nullam. Tempus quam pellentesque nec nam aliquam. Non curabitur gravida arcu ac tortor dignissim convallis. Mollis nunc sed id semper risus in hendrerit gravida rutrum. Enim neque volutpat ac tincidunt vitae semper quis lectus."
+},
+{
+    "details":[{
+          "work":"CSE-AIML",
+          "description":"I am a student of Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning."
+    },{
+        "work":"Front-end-development",
+        "description":"I am a front-end developer with a strong understanding of Html, Css, JavaScript and its libraries, including React. "
+  },{
+    "work":"Competitive Programming",
+    "description":"I am a beginner in competitive programming, where I put my problem-solving and algorithmic skills to the test. "
+},{
+    "work":"Designing",
+    "description":"I am a designer with moderate proficiency in both Photoshop and Figma."
+}]
+},
+{
+    "myskills":[
+        {"name":"C",
+         "mylevel":"Advanced"
+        },{
+            "name":"C++",
+            "mylevel":"Intermediate"
+        },{
+            "name":"Html",
+            "mylevel":"Advanced"
+        },{
+            "name":"CSS",
+            "mylevel":"Intermediate"
+        },{
+            "name":"JavaScript",
+            "mylevel":"Intermediate"
+        },{
+            "name":"Figma",
+            "mylevel":"Intermediate"
+        },{
+            "name":"Git & Github",
+            "mylevel":"Beginner"
+        }
+    ]
+},{
+    "name":"CodeX Club . GITAM University",
+    "role":"Visual arts lead & Front-end-developer",
+    "description":"As a core member of CodeX, a student-run club at GITAM University, I am entrusted with the responsibility of designing and executing front-end development projects. Furthermore, I am dedicated to continuously enhancing my skills and knowledge in the field of technology through ongoing learning.",
+    "link":"https://codex-gitam.vercel.app/"
+},{
+    "education":[
+        {"name":"Graduation . Bachelor of Technology",
+        "place":"GITAM University, Banglore, Karnataka",
+        "grade":"9.75CGPA (current academic grade)",
+        "description":"I am a student at Gitam University in Bangalore, India. I use my free time to focus on skill-building and self-improvement.Gitam University provides a challenging and supportive learning environment.My primary focus is on academic success and personal growth.I am determined to make the most of my university experience and come out with a solid education and valuable knowledge."
+    },
+        {"name":"Intermediate",
+        "place":"Krishna Chaitanya Junior Collage, Nellore, AndhraPradesh",
+        "grade":"949 Marks",
+        "description":"I have successfully completed my intermediate education with a major in MPC (Mathematics, Physics, and Chemistry)."
+    },
+        {"name":"Higher Secondary School",
+        "place":"S.R.K (EM) High School, Nellore, AndhraPradesh",
+        "grade":"9.8 CGPA",
+        "description":"Iam have completed my high school with state board syllubus of AndhraPradesh including Physics, Mathematics, Biology and Chesmistry."
+    }
+    ]
+},{
+  "certificates":[
+    {
+        "name":"Introduction to Front-End Development by Meta",
+        "image":"https://coursera-certificate-images.s3.amazonaws.com/YUXSLEZ2MGRL",
+        "certificate_link":"https://coursera.org/share/b79ba831134bbef23c36768ca071b9d4"
+    },{
+        "name":"React Basics by Meta",
+        "image":"https://coursera-certificate-images.s3.amazonaws.com/FM6TEMUX2G3D",
+        "certificate_link":"https://coursera.org/share/8d9880085076e774195a5550046b5cd6"
+    },{
+        "name":"Python (Basic) Certificate",
+        "image":"https://drive.google.com/file/d/1Af7LyyjNFwdS8hRYbCFUGHl16ufELyAw/preview",
+        "certificate_link":"https://www.hackerrank.com/certificates/acc0751cd7ae"
+    }
+  ]   
+},{
+    "work":[
+        {
+            "name":"Simple Calculator",
+            "description":"It is a simple calculator where u can do simple arthemaatic calculation like addition,subtraction etc. Basically i used simple html css and lit part of javascript.",
+            "demo":"https://simplecalculatorbysuhit.netlify.app/",
+            "image":"https://user-images.githubusercontent.com/105535366/195660373-c770f228-d444-442a-9185-eeba844cbf62.png",
+            "github":"https://github.com/suhit123/simplecalculator"
+        },{
+            "name":"Tic Tac Toe",
+            "description":"This project was done using react! Check this website to play the game",
+            "demo":"https://tic-tac-toe-suhit.netlify.app/",
+            "image":"https://user-images.githubusercontent.com/105535366/200639124-b0515afe-c4c4-41d5-a90b-75c0a5d25ffe.png",
+            "github":"https://github.com/suhit123/TIC_TAC_TOE"
+        },{
+            "name":"CodeX Website",
+            "description":"This is a project of the club codex where we team members collab and do work based upon their skills. I am the designer of the website and Front end developer for this project",
+            "demo":"https://codex-gitam.vercel.app/",
+            "image":"https://user-images.githubusercontent.com/105535366/218292924-5d7732ef-540a-4954-84bf-48de2a270dd0.png",
+            "github":"https://github.com/suhit123/codex-website"
+        }
+    ]
+}]
