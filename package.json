@@ -1,5 +1,6 @@
 {
   "name": "myblog",
+   "homepage": "https://suhit123.github.io/myblog/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +8,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.3",
+    "gh-pages": "^5.0.0",
     "jquery": "^3.6.3",
     "popper.js": "^1.16.1",
     "react": "^18.2.0",
@@ -18,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",  
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
