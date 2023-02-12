@@ -1,4 +1,7 @@
+import data from '../data/my_data.json';
 const Footer=()=>{
+    
+    const profile=data[0];
     const goToTop = () => {
         window.scrollTo({
             top: 0,
@@ -11,9 +14,9 @@ const Footer=()=>{
             </div>
             <div className="footer_2">
                 <div className="footer_21">
-                    <a href="">Linkedin</a>
-                    <a href="">Instagram</a>
-                    <a href="">Github</a>
+                    <a href={profile.linkdinprofile}>Linkedin</a>
+                    <a href={profile.instaprofile}>Instagram</a>
+                    <a href={profile.githubprofile}>Github</a>
                 </div>
                 <div className="footer_22">
                     <button onClick={goToTop}>Back to top</button>

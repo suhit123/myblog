@@ -18,8 +18,8 @@ const Profile =()=>{
                 <h1 className="current_profesion">{profile.profession}</h1>
                 <div className="social_media_links">
                     <a href={profile.instaprofile}><img className="ss_media_logos" src={instalogo} alt="" /></a>
-                    <a href={profile.linkdinprofile}><img className="ss_media_logos" src={githublogo} alt="" /></a>
-                    <a href={profile.githubprofile}><img className="ss_media_logos" src={linkdin} alt="" /></a>
+                    <a href={profile.linkdinprofile}><img className="ss_media_logos" src={linkdin} alt="" /></a>
+                    <a href={profile.githubprofile}><img className="ss_media_logos" src={githublogo} alt="" /></a>
                 </div>
             </div>
             <div className="profile_container_bottom_container">
@@ -27,7 +27,7 @@ const Profile =()=>{
                 <h3><img src={place} alt=""/><span>{profile.place}</span></h3>
                 <h3><a  className='tele' href='mailto:suhiteswar123@gmail.com'><img src={email} alt=""/><span>{profile.mail}</span></a></h3>
                 <h3><a className='tele' href='tel:8688867490'><img src={mobile} alt=""/><span>{profile.mobile}</span></a></h3>
-            <div className='cv'><a className='download_cv' download=""><img src={download_btn} alt=""/> Download CV</a></div>
+            <div className='cv'><a className='download_cv' href="https://drive.google.com/file/d/1ZbfUvNGaR6Gc12sXgB1YyG8uaULTdTKP/view?usp=sharing" download><img src={download_btn} alt=""/> Download CV</a></div>
             </div>
         </div>
     );

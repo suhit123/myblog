@@ -76,7 +76,11 @@ z-index: 15;
   padding: 20px 40px;
   background-color: rgb(10, 48, 69);
   display: flex;
+  text-decoration: none;
   flex-direction: row;
+}
+.download_cv:hover{
+  color: rgb(204, 204, 204);
 }
 .download_cv img{
   margin-right: 10px;
