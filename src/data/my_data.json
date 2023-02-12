@@ -110,6 +110,16 @@
             "demo":"https://codex-gitam.vercel.app/",
             "image":"https://user-images.githubusercontent.com/105535366/218292924-5d7732ef-540a-4954-84bf-48de2a270dd0.png",
             "github":"https://github.com/suhit123/codex-website"
+        },{
+            "name":"Personal website",
+            "description":"This is my personal website where i will display my skills certificates and my works. Made this using React Js.",
+            "image":"https://user-images.githubusercontent.com/105535366/218301701-c60c6ac8-d3cf-4201-bd61-2f85bb434252.png",
+            "github":"https://github.com/suhit123/myblog"
+        },{
+            "name":"A Cookie website",
+            "description":"This is a cookie website where user can login and signup and the datils will be stored in local storage and user details are displayed after login",
+            "image":"https://user-images.githubusercontent.com/105535366/218302177-8163f8a1-3afb-4c86-aaf6-ed57c35b986a.png",
+            "github":""
         }
     ]
 }]
