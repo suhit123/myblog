@@ -44,8 +44,7 @@ return(
                <div> <img src={codingdatastruc} /></div>
                 <div className='page_2_blocks_content'><h1>Data Structures in C++</h1>
                 <p>Verify my certification through below link</p>
-                <a href={"https://certificate.codingninjas.com/view/fba9c53494000d1e"}>Certification</a></div>
-               
+                <a href={"https://certificate.codingninjas.com/view/fba9c53494000d1e"}>Certification</a></div> 
             </div>
     </div>
 );
