@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/myblog/static/css/main.b6b9bffe.css",
-    "main.js": "/myblog/static/js/main.d1233d57.js",
+    "main.css": "/myblog/static/css/main.89e9dd09.css",
+    "main.js": "/myblog/static/js/main.685431d8.js",
     "static/js/787.59ee247b.chunk.js": "/myblog/static/js/787.59ee247b.chunk.js",
     "static/media/background_img.png": "/myblog/static/media/background_img.dc981ebc10c4269d4077.png",
     "static/media/codingninjadatastructures.png": "/myblog/static/media/codingninjadatastructures.589a2a3e175b6d96b28f.png",
     "static/media/introcplusplus.png": "/myblog/static/media/introcplusplus.7be141f8f508ac6930a8.png",
+    "static/media/Courserafrontendmeta_page-0001.jpg": "/myblog/static/media/Courserafrontendmeta_page-0001.ee36787555b0cb3f23f2.jpg",
+    "static/media/Courserareactmeta_page-0001.jpg": "/myblog/static/media/Courserareactmeta_page-0001.d15a510468959aaea3d7.jpg",
+    "static/media/Epochhackathon.jpg": "/myblog/static/media/Epochhackathon.c389c9496c616b32bd73.jpg",
     "static/media/react_basiccertificate.jpg": "/myblog/static/media/react_basiccertificate.49825f21e6942fce9f87.jpg",
     "static/media/pythonbasiccertificatepage.jpg": "/myblog/static/media/pythonbasiccertificatepage.292e3ea939bbf33b6cce.jpg",
     "static/media/background_img1.png": "/myblog/static/media/background_img1.953bf2e33c706cf71960.png",
@@ -16,12 +19,12 @@
     "static/media/linkedin.png": "/myblog/static/media/linkedin.f249b38224ca41a0b909.png",
     "static/media/logo.svg": "/myblog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/myblog/index.html",
-    "main.b6b9bffe.css.map": "/myblog/static/css/main.b6b9bffe.css.map",
-    "main.d1233d57.js.map": "/myblog/static/js/main.d1233d57.js.map",
+    "main.89e9dd09.css.map": "/myblog/static/css/main.89e9dd09.css.map",
+    "main.685431d8.js.map": "/myblog/static/js/main.685431d8.js.map",
     "787.59ee247b.chunk.js.map": "/myblog/static/js/787.59ee247b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6b9bffe.css",
-    "static/js/main.d1233d57.js"
+    "static/css/main.89e9dd09.css",
+    "static/js/main.685431d8.js"
   ]
 }
