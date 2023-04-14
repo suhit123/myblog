@@ -2,18 +2,21 @@ import codingdatastruc from '../assets/codingninjadatastructures.png'
 import introcplusplus from '../assets/introcplusplus.png';
 import pythonhacker from '../assets/pythonbasiccertificatepage.jpg';
 import reacthacker from '../assets/react_basiccertificate.jpg'
+import epochhackathon from '../assets/Epochhackathon.jpg'
+import metafrontend from '../assets/Courserafrontendmeta_page-0001.jpg'
+import metareact from '../assets/Courserareactmeta_page-0001.jpg'
 const Page2=()=>{
 return(
     <div className="page2">
             <div className='page_2_blocks'>
-           <div><img src={"https://coursera-certificate-images.s3.amazonaws.com/YUXSLEZ2MGRL"} /></div>
+           <div><img src={metafrontend} /></div>
            <div className='page_2_blocks_content'><h1>Introduction to Front-End Development by Meta</h1>
                 <p>Verify my certification through below link</p>
                 <a href={"https://coursera.org/share/b79ba831134bbef23c36768ca071b9d4"}>Certification</a>
             </div>
             </div>
             <div className='page_2_blocks'>
-                <div><img src={"https://coursera-certificate-images.s3.amazonaws.com/FM6TEMUX2G3D"} /></div>
+                <div><img src={metareact} /></div>
                 <div className='page_2_blocks_content
 '><h1>React Basics by Meta</h1>
                 <p>Verify my certification through below link</p>
@@ -45,6 +48,12 @@ return(
                 <div className='page_2_blocks_content'><h1>Data Structures in C++</h1>
                 <p>Verify my certification through below link</p>
                 <a href={"https://certificate.codingninjas.com/view/fba9c53494000d1e"}>Certification</a></div> 
+            </div>
+            <div className='page_2_blocks'>
+               <div> <img src={epochhackathon} /></div>
+                <div className='page_2_blocks_content'><h1>EPOCH HACKATHON</h1>
+                <p>Verify my certification through below link</p>
+                <a href={"#"}>Certification</a></div> 
             </div>
     </div>
 );
