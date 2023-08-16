@@ -96,6 +96,13 @@
 },{
     "work":[
         {
+            "name":"Url Shortener",
+            "description":"🌐✂️ I've created a tool using Next.js, a powerful web development framework, that helps you turn those long, cumbersome URLs into short and easy-to-share links. It's perfect for sharing with others! The best thing is that when someone clicks on these shortened links, they will be automatically redirected to the original, long URL without any hassle.",
+            "github":"https://github.com/suhit123/urlshortener",
+            "demo":"https://github.com/suhit123/urlshortener",
+            "image":""
+        }
+        ,{
             "name":"Simple Calculator",
             "description":"It is a simple calculator where u can do simple arthemaatic calculation like addition,subtraction etc. Basically i used simple html css and lit part of javascript.",
             "demo":"https://simplecalculatorbysuhit.netlify.app/",
