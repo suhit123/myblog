@@ -100,7 +100,7 @@
             "description":"🌐✂️ I've created a tool using Next.js, a powerful web development framework, that helps you turn those long, cumbersome URLs into short and easy-to-share links. It's perfect for sharing with others! The best thing is that when someone clicks on these shortened links, they will be automatically redirected to the original, long URL without any hassle.",
             "github":"https://github.com/suhit123/urlshortener",
             "demo":"https://github.com/suhit123/urlshortener",
-            "image":""
+            "image":"https://user-images.githubusercontent.com/105535366/261084902-0f7d319a-5133-42b5-a149-4f9c584427d4.png"
         }
         ,{
             "name":"Simple Calculator",
@@ -120,6 +120,19 @@
             "demo":"https://codex-gitam.vercel.app/",
             "image":"https://user-images.githubusercontent.com/105535366/218292924-5d7732ef-540a-4954-84bf-48de2a270dd0.png",
             "github":"https://github.com/suhit123/codex-website"
+        },{
+            "name":"Tech Dude Assignment",
+            "description":"This is a assignment given by techdude.",
+            "demo":"https://techdudeassignment.netlify.app/",
+            "image":"https://user-images.githubusercontent.com/105535366/202889916-4ea0c47b-6799-43b2-997c-77262c035d44.png",
+            "github":"https://github.com/suhit123/techdude_assignment"
+        },
+        {
+            "name":"Ringstribe Assignment",
+            "description":"This is a assignment given by ringstribe when I need to remake their website design and here is the responsive website that i have made.",
+            "demo":"https://ringstribe.netlify.app/",
+            "image":"https://user-images.githubusercontent.com/105535366/261087914-f9310cd2-9781-46a7-abb6-a6cdfa5127b5.png",
+            "github":"https://github.com/suhit123/ringstribe"
         },{
             "name":"Personal website",
             "description":"This is my personal website where i will display my skills certificates and my works. Made this using React Js.",
